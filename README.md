@@ -8,7 +8,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lovefucker420&hide=ruby,perl&hide_border=true" />  -->
 </p>
 <p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-+8801305055097-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Number-+8801305055097-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <p align="center">
