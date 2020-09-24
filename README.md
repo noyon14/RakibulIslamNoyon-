@@ -13,13 +13,13 @@
 <p align="center">
 <p align="center">
 <p align="center">
-<a href="https://github.com/lovefucker420"><img title="Fuck" src="https://img.shields.io/badge/Fuck-lovefucker420-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/lovefucker420"><img title="Noyon" src="https://img.shields.io/badge/Noyon-lovefucker420-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/lovefucker420/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovefucker420?color=blue&style=flat-square"></a>
-<a href="https://github.com/lovefucker420/devil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovefucker420/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovefucker420/devil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovefucker420/devil?color=red&style=flat-square"></a>
-<a href="https://github.com/lovefucker420/devil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovefucker420/devil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/silentforce /stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovefucker420/World?color=red&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/silentforce/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovefucker420/devil?color=red&style=flat-square"></a>
+<a href="https://github.com/lovefucker420/silentforce/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovefucker420/devil?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Installation :
@@ -39,10 +39,10 @@ $ `pip2 install mechanize`
 
 $ `pip install lolcat`
 
-$ `git clone https://github.com/lovefucker420/devil`
+$ `git clone https://github.com/lovefucker420/silentforce`
 
-$ `cd devil`
+$ `cd silentforce`
 
-$ `python2 devil.py`
+$ `python2 silentforce.py`
 
 
